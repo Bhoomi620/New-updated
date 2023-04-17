@@ -185,7 +185,7 @@ function arrangedata()
       }
     }
 
-    if(d=="PD")
+    if(d=="PA")
     {
       if(a.price >b.price)
       {
@@ -196,7 +196,7 @@ function arrangedata()
       }
     }
 
-    if(d=="PA")
+    if(d=="PD")
     {
       if(a.price >b.price)
       {
